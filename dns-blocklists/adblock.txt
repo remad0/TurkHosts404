@@ -1,1 +1,104 @@
-
+! Title: TurkHosts404
+! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
+! Version: 2026.0219.1733.04
+! Last modified: 19 Feb 2026 17:33 UTC
+! Syntax: AdBlock
+! Entries: 95
+! Maintainer: remad0
+! Homepage: https://codeberg.org/remad0/TurkHosts404
+! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
+||leo.hepsiburada.com^
+||hba1.hepsiburada.com^
+||hba2.hepsiburada.com^
+||hba3.hepsiburada.com^
+||hba4.hepsiburada.com^
+||hba5.hepsiburada.com^
+||hba6.hepsiburada.com^
+||hba7.hepsiburada.com^
+||hba8.hepsiburada.com^
+||hba9.hepsiburada.com^
+||hba10.hepsiburada.com^
+||hstats.hepsiburada.com^
+||adservice.hepsiburada.com^
+||hepsiads-gw.hepsiburada.com^
+||hepsiads-ui.hepsiburada.com^
+||hepsipay-sentry.hepsipay.com^
+||hepsiads-bff.hepsiburada.com^
+||metric-collector.hepsipay.com^
+||collect.trendyol.com^
+||demeter.trendyol.com^
+||tracker.trendyol.global^
+||beholder-otlp.trendyol.com^
+||demeter-tr-core-collect.trendyol.com^
+||demeter-int-ecom-collect.trendyol.com^
+||delphoi-tr-milla-collect.trendyol-milla.com^
+||demeter-tr-milla-collect.trendyol-milla.com^
+||a.n11.com^
+||h.n11.com^
+||athena-event-provider.n11.com^
+||ad01.tmgrup.com.tr^
+||mynetreklam.com^
+||adsp.haberturk.com^
+||makroo.haber7.net^
+||av2.sozcu.com.tr^
+||signal.arabam.com^
+||geoip.ciner.com.tr^
+||analitik.bik.gov.tr^
+||signals.teknosa.com^
+||geoim.bloomberght.com^
+||signal.milleni.com.tr^
+||geoloc.hurriyet.com.tr^
+||api-stg.ensonhaber.com^
+||istatistik.trthaber.com^
+||tracking.ensonhaber.com^
+||sentinel.defacto.com.tr^
+||analytics.turksat.com.tr^
+||countly.fibabanka.com.tr^
+||pnsdkapi.turktelekom.com.tr^
+||zbmatomoapp.ziraatbank.com.tr^
+||matomo.drupart.com.tr^
+||action-log.yemeksepeti.com^
+||cdn-netmeraprod.turktelekom.com.tr^
+||adsby.io^
+||dimml.io^
+||adhood.com^
+||boomads.com^
+||wordego.com^
+||adhouse.pro^
+||reklamz.com^
+||pixad.com.tr^
+||membrana.media^
+||nativespot.com^
+||reklamport.com^
+||admatic.com.tr^
+||brainsland.com^
+||reklamstore.com^
+||medyanetads.com^
+||membrana-cdn.media^
+||2cnt.net^
+||count.ly^
+||virgul.com^
+||pghub.io^
+||zotlo.com^
+||cdnstr.com^
+||poltio.com^
+||analytics.turk.pro^
+||servg1.net^
+||dengage.com^
+||mobildev.in^
+||netmera.com^
+||pigeoon.com^
+||revotas.com^
+||dataroid.com^
+||visilabs.net^
+||binclusive.io^
+||pisano.com.tr^
+||subservis.com^
+||usehardal.com^
+||segmentify.com^
+||useinsider.com^
+||netmera-web.com^
+||pushs.euromsg.com^
+||efilli.com^
+||bildirt.com^
+||clickmerkez.com^
