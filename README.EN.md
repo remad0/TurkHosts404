@@ -3,6 +3,9 @@
 [📖 **View in Turkish**](./README.md)
 
 # 🛡️ TurkHosts404
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/remad0/TurkHosts404)
+[![](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/remad0/TurkHosts404)
+[![](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/remad0/TurkHosts404)
 </div>
 
 ### ❓ Why TurkHosts404?
