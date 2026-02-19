@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0219.1952.55
-! Last modified: 19 Feb 2026 19:52 UTC
+! Version: 2026.0219.2051.48
+! Last modified: 19 Feb 2026 20:51 UTC
 ! Syntax: AdBlock
-! Entries: 96
+! Entries: 101
 ! Maintainer: remad0
 ! Homepage: https://codeberg.org/remad0/TurkHosts404
 ! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
@@ -37,12 +37,17 @@
 ||a.n11.com^
 ||h.n11.com^
 ||athena-event-provider.n11.com^
+||apm.arabam.com^
+||signal.arabam.com^
+||hodor-collect.arabam.com^
+||ws.sahibinden.com^
+||pan.pazarama.com^
 ||ad01.tmgrup.com.tr^
 ||mynetreklam.com^
 ||adsp.haberturk.com^
 ||makroo.haber7.net^
 ||av2.sozcu.com.tr^
-||signal.arabam.com^
+||gtm.bynogame.com^
 ||geoip.ciner.com.tr^
 ||analitik.bik.gov.tr^
 ||signals.teknosa.com^
