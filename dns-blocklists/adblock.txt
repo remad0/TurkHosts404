@@ -1,12 +1,13 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0219.1733.04
-! Last modified: 19 Feb 2026 17:33 UTC
+! Version: 2026.0219.1952.55
+! Last modified: 19 Feb 2026 19:52 UTC
 ! Syntax: AdBlock
-! Entries: 95
+! Entries: 96
 ! Maintainer: remad0
 ! Homepage: https://codeberg.org/remad0/TurkHosts404
 ! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
+||as.hepsiburada.com^
 ||leo.hepsiburada.com^
 ||hba1.hepsiburada.com^
 ||hba2.hepsiburada.com^
