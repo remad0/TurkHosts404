@@ -9,7 +9,7 @@
 </div>
 
 ### ❓ Why TurkHosts404?
-Unlike other Turkish regional lists, **TurkHosts404** is designed as a "complementary list" that can be used alongside global lists without duplicating global domains. Our goal is to provide a lean and effective solution by focusing solely on Turkish regional domains.
+**TurkHosts404** does not include global domain names, unlike other Turkish regional lists. It is designed as a **complementary list** that can be used alongside global lists. By focusing only on Turkish regional content, it offers a simple and effective list.
 
 ### 🎯 What Do We List?
 Entries included in our list are determined according to the following criteria:
