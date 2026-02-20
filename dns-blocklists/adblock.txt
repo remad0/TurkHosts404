@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0219.2051.48
-! Last modified: 19 Feb 2026 20:51 UTC
+! Version: 2026.0220.1329.41
+! Last modified: 20 Feb 2026 13:29 UTC
 ! Syntax: AdBlock
-! Entries: 101
+! Entries: 115
 ! Maintainer: remad0
 ! Homepage: https://codeberg.org/remad0/TurkHosts404
 ! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
@@ -42,6 +42,9 @@
 ||hodor-collect.arabam.com^
 ||ws.sahibinden.com^
 ||pan.pazarama.com^
+||outstream.cdn.vidyome.com^
+||widget.cdn.vidyome.com^
+||stats.vidyome.com^
 ||ad01.tmgrup.com.tr^
 ||mynetreklam.com^
 ||adsp.haberturk.com^
@@ -51,6 +54,7 @@
 ||geoip.ciner.com.tr^
 ||analitik.bik.gov.tr^
 ||signals.teknosa.com^
+||hit.odatv.com^
 ||geoim.bloomberght.com^
 ||signal.milleni.com.tr^
 ||geoloc.hurriyet.com.tr^
@@ -68,11 +72,18 @@
 ||adsby.io^
 ||dimml.io^
 ||adhood.com^
+||makroo.com^
 ||boomads.com^
+||gmgreklam.com^
 ||wordego.com^
+||theadx.com^
 ||adhouse.pro^
+||networkad.net^
+||bilgin.pro^
 ||reklamz.com^
+||gelirartisi.com^
 ||pixad.com.tr^
+||a.doganburda.com^
 ||membrana.media^
 ||nativespot.com^
 ||reklamport.com^
@@ -94,6 +105,7 @@
 ||mobildev.in^
 ||netmera.com^
 ||pigeoon.com^
+||setrowid.com^
 ||revotas.com^
 ||dataroid.com^
 ||visilabs.net^
@@ -106,5 +118,7 @@
 ||netmera-web.com^
 ||pushs.euromsg.com^
 ||efilli.com^
+||cookiepro.com^
+||cookieseal.com^
 ||bildirt.com^
 ||clickmerkez.com^
