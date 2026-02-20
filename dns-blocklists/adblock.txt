@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0220.1329.41
-! Last modified: 20 Feb 2026 13:29 UTC
+! Version: 2026.0220.1546.54
+! Last modified: 20 Feb 2026 15:46 UTC
 ! Syntax: AdBlock
-! Entries: 115
+! Entries: 116
 ! Maintainer: remad0
 ! Homepage: https://codeberg.org/remad0/TurkHosts404
 ! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
@@ -26,6 +26,7 @@
 ||hepsipay-sentry.hepsipay.com^
 ||hepsiads-bff.hepsiburada.com^
 ||metric-collector.hepsipay.com^
+||delphoi.tgoapps.com^
 ||collect.trendyol.com^
 ||demeter.trendyol.com^
 ||tracker.trendyol.global^
@@ -55,8 +56,8 @@
 ||analitik.bik.gov.tr^
 ||signals.teknosa.com^
 ||hit.odatv.com^
-||geoim.bloomberght.com^
 ||signal.milleni.com.tr^
+||geoim.bloomberght.com^
 ||geoloc.hurriyet.com.tr^
 ||api-stg.ensonhaber.com^
 ||istatistik.trthaber.com^
