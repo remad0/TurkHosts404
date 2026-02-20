@@ -1,7 +1,7 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0220.1546.54
-! Last modified: 20 Feb 2026 15:46 UTC
+! Version: 2026.0220.1551.47
+! Last modified: 20 Feb 2026 15:51 UTC
 ! Syntax: AdBlock
 ! Entries: 116
 ! Maintainer: remad0
@@ -61,8 +61,8 @@
 ||geoloc.hurriyet.com.tr^
 ||api-stg.ensonhaber.com^
 ||istatistik.trthaber.com^
-||tracking.ensonhaber.com^
 ||sentinel.defacto.com.tr^
+||tracking.ensonhaber.com^
 ||analytics.turksat.com.tr^
 ||countly.fibabanka.com.tr^
 ||pnsdkapi.turktelekom.com.tr^
