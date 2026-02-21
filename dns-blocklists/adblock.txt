@@ -1,7 +1,7 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0221.1541.19
-! Last modified: 21 Feb 2026 15:41 UTC
+! Version: 2026.0221.1626.17
+! Last modified: 21 Feb 2026 16:26 UTC
 ! Syntax: AdBlock
 ! Entries: 116
 ! Maintainer: remad0
