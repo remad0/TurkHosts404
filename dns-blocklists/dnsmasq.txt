@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0221.1626.17
-! Last modified: 21 Feb 2026 16:26 UTC
+! Version: 2026.0222.1339.50
+! Last modified: 22 Feb 2026 13:39 UTC
 ! Syntax: DNSMasq v2.86 or newer
-! Entries: 116
+! Entries: 117
 ! Maintainer: remad0
 ! Homepage: https://codeberg.org/remad0/TurkHosts404
 ! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
@@ -74,6 +74,7 @@ local=/adsby.io/
 local=/dimml.io/
 local=/adhood.com/
 local=/makroo.com/
+local=/ads.dygdigital.com/
 local=/boomads.com/
 local=/gmgreklam.com/
 local=/wordego.com/
