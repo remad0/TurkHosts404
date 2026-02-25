@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0222.1339.50
-! Last modified: 22 Feb 2026 13:39 UTC
+! Version: 2026.0225.1728.40
+! Last modified: 25 Feb 2026 17:28 UTC
 ! Syntax: AdBlock
-! Entries: 117
+! Entries: 119
 ! Maintainer: remad0
 ! Homepage: https://codeberg.org/remad0/TurkHosts404
 ! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
@@ -106,6 +106,8 @@
 ||dengage.com^
 ||mobildev.in^
 ||netmera.com^
+||personaclick.com^
+||wawlabs.com^
 ||pigeoon.com^
 ||setrowid.com^
 ||revotas.com^
