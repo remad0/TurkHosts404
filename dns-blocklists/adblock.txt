@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0228.1401.30
-! Last modified: 28 Feb 2026 14:01 UTC
+! Version: 2026.0228.2054.10
+! Last modified: 28 Feb 2026 20:54 UTC
 ! Syntax: AdBlock
-! Entries: 120
+! Entries: 147
 ! Maintainer: remad0
 ! Homepage: https://codeberg.org/remad0/TurkHosts404
 ! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
@@ -46,27 +46,45 @@
 ||outstream.cdn.vidyome.com^
 ||widget.cdn.vidyome.com^
 ||stats.vidyome.com^
+||pixels.ingbank.com.tr^
+||analytics.halkbank.com.tr^
+||developer.kuveytturk.com.tr^
+||prep-kuveytturk-developer.kuveytturk.com.tr^
+||zbmatomoapp.ziraatbank.com.tr^
+||eumdyn.denizbank.com^
+||countly.fibabanka.com.tr^
+||analytic.turkiyefinans.com.tr^
+||marketing.turkiyefinans.com.tr^
+||dengage-public-data-collector-proxy.burgan.com.tr^
 ||ad01.tmgrup.com.tr^
 ||mynetreklam.com^
 ||adsp.haberturk.com^
 ||makroo.haber7.net^
 ||av2.sozcu.com.tr^
 ||geoip.ciner.com.tr^
+||sentry.bilyoner.com^
+||logpose-sentry.iddaa.com^
 ||analitik.bik.gov.tr^
 ||gtm.bynogame.com^
 ||hit.odatv.com^
+||t.enuygun.com^
+||sentry-prod.enuygun.tech^
 ||signals.teknosa.com^
+||collect.dugun.com^
+||analytics.dugun.com^
 ||signal.milleni.com.tr^
+||t.onedio.com^
+||analytics.onedio.com^
 ||geoim.bloomberght.com^
+||stats.videoseyred.in^
 ||geoloc.hurriyet.com.tr^
 ||api-stg.ensonhaber.com^
 ||istatistik.trthaber.com^
+||personalization-event-service.modanisa.net^
 ||sentinel.defacto.com.tr^
 ||tracking.ensonhaber.com^
 ||analytics.turksat.com.tr^
-||countly.fibabanka.com.tr^
 ||pnsdkapi.turktelekom.com.tr^
-||zbmatomoapp.ziraatbank.com.tr^
 ||matomo.drupart.com.tr^
 ||action-log.yemeksepeti.com^
 ||cdn-netmeraprod.turktelekom.com.tr^
@@ -76,6 +94,7 @@
 ||makroo.com^
 ||ads.dygdigital.com^
 ||boomads.com^
+||ad-plus.com.tr^
 ||gmgreklam.com^
 ||wordego.com^
 ||theadx.com^
@@ -98,6 +117,7 @@
 ||count.ly^
 ||virgul.com^
 ||pghub.io^
+||trk.storyly.io^
 ||zotlo.com^
 ||cdnstr.com^
 ||poltio.com^
@@ -114,6 +134,7 @@
 ||visilabs.net^
 ||binclusive.io^
 ||pisano.com.tr^
+||analytics.ticimax.cloud^
 ||subservis.com^
 ||usehardal.com^
 ||segmentify.com^
@@ -122,8 +143,14 @@
 ||pushs.euromsg.com^
 ||wa.wawlabs.com^
 ||collector.wawlabs.com^
+||analyticsb2c.com^
 ||efilli.com^
+||mookie1.com^
 ||cookiepro.com^
 ||cookieseal.com^
+||cookiespool.com^
 ||bildirt.com^
 ||clickmerkez.com^
+||epayment-gtm.turkcell.com.tr^
+||engage-ae.com^
+||corpowid.com^
