@@ -1,7 +1,7 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0302.0031.18
-! Last modified: 02 Mar 2026 00:31 UTC
+! Version: 2026.0302.1137.36
+! Last modified: 02 Mar 2026 11:37 UTC
 ! Syntax: AdBlock
 ! Entries: 190
 ! Maintainer: remad0
@@ -195,5 +195,5 @@
 ||pushouse.com^
 ||pushs.euromsg.com^
 ||clickmerkez.com^
-||epayment-gtm.turkcell.com.tr^
 ||engage-ae.com^
+||epayment-gtm.turkcell.com.tr^
