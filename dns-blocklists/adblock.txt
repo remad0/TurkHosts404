@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0301.1102.02
-! Last modified: 01 Mar 2026 11:02 UTC
+! Version: 2026.0302.0031.18
+! Last modified: 02 Mar 2026 00:31 UTC
 ! Syntax: AdBlock
-! Entries: 160
+! Entries: 190
 ! Maintainer: remad0
 ! Homepage: https://codeberg.org/remad0/TurkHosts404
 ! License: https://codeberg.org/remad0/TurkHosts404/src/branch/main/LICENSE
@@ -49,12 +49,22 @@
 ||eumdyn.denizbank.com^
 ||pixels.ingbank.com.tr^
 ||countly.fibabanka.com.tr^
+||eflbundles.alternatifbank.com.tr^
+||countly.teb.com.tr^
+||cookiewarden.teb.com.tr^
+||cookiewarden-content.teb.com.tr^
+||pisano-api.vakifbank.com.tr^
+||pisano-web.vakifbank.com.tr^
+||eflbundles.akbank.com^
 ||eflanalytic.akbank.com^
+||cdn-dataroid.akbank.com.tr^
+||anadolubank.app.modeto.com^
 ||analytics.halkbank.com.tr^
-||developer.kuveytturk.com.tr^
 ||analytic.turkiyefinans.com.tr^
-||zbmatomoapp.ziraatbank.com.tr^
 ||marketing.turkiyefinans.com.tr^
+||zbmatomoapp.ziraatbank.com.tr^
+||zkustats.ziraatkatilim.com.tr^
+||developer.kuveytturk.com.tr^
 ||prep-kuveytturk-developer.kuveytturk.com.tr^
 ||dengage-public-data-collector-proxy.burgan.com.tr^
 ||mynetreklam.com^
@@ -66,33 +76,45 @@
 ||t.enuygun.com^
 ||av2.sozcu.com.tr^
 ||gtm.bynogame.com^
+||signal.dr.com.tr^
 ||signal.kigili.com^
 ||collect.dugun.com^
 ||geoip.ciner.com.tr^
 ||sentry.bilyoner.com^
 ||analitik.bik.gov.tr^
-||eum.instanas.opetcloud.net^
+||signals.a101.com.tr^
 ||signals.teknosa.com^
 ||analytics.dugun.com^
+||signal.bkmkitap.com^
+||signals.modanisa.com^
 ||analytics.onedio.com^
 ||stats.videoseyred.in^
-||signal.milleni.com.tr^
-||tag.atasunoptik.com.tr^
-||oneri.atasunoptik.com.tr^
-||geoim.bloomberght.com^
 ||matomo.drupart.com.tr^
+||visitors.bynogame.com^
+||geoim.bloomberght.com^
+||signal.milleni.com.tr^
 ||geoloc.hurriyet.com.tr^
 ||api-stg.ensonhaber.com^
+||tag.atasunoptik.com.tr^
+||measurement.gratis.com^
+||collector.lescon.com.tr^
+||analytics.machka.com.tr^
 ||istatistik.trthaber.com^
 ||sentinel.defacto.com.tr^
 ||tracking.ensonhaber.com^
+||oneri.atasunoptik.com.tr^
+||analytics.ipekyol.com.tr^
+||metrics.sokmarket.com.tr^
+||signals.sokmarket.com.tr^
 ||logpose-sentry.iddaa.com^
 ||sentry-prod.enuygun.tech^
 ||analytics.turksat.com.tr^
-||mpecom-analyticevents-prod.boyner.com.tr^
+||datacollection.beymen.com^
+||eum.instanas.opetcloud.net^
 ||action-log.yemeksepeti.com^
 ||pnsdkapi.turktelekom.com.tr^
 ||cdn-netmeraprod.turktelekom.com.tr^
+||mpecom-analyticevents-prod.boyner.com.tr^
 ||personalization-event-service.modanisa.net^
 ||adsby.io^
 ||dimml.io^
@@ -104,6 +126,7 @@
 ||boomads.com^
 ||wordego.com^
 ||adhouse.pro^
+||adhouseapi.com^
 ||reklamz.com^
 ||pixad.com.tr^
 ||gmgreklam.com^
@@ -122,22 +145,28 @@
 ||a.doganburda.com^
 ||ads.dygdigital.com^
 ||membrana-cdn.media^
+||trkvz-cdn-ads.ercdn.net^
 ||2cnt.net^
 ||count.ly^
 ||pghub.io^
 ||zotlo.com^
+||collectaction.com^
 ||virgul.com^
 ||cdnstr.com^
+||webinstats.com^
 ||poltio.com^
 ||servg1.net^
 ||dengage.com^
-||collectaction.com^
+||segmenthub.com^
+||sgmntfy.com^
+||tmanalytic.path.com.tr^
 ||mobildev.in^
 ||netmera.com^
 ||pigeoon.com^
 ||visitorlab.com^
 ||revotas.com^
 ||setrowid.com^
+||hellosmpl.com^
 ||dataroid.com^
 ||visilabs.net^
 ||binclusive.io^
@@ -157,10 +186,11 @@
 ||analytics.ticimax.cloud^
 ||efilli.com^
 ||mookie1.com^
+||cerezgo.com^
 ||cookiepro.com^
 ||cookieseal.com^
 ||cookiespool.com^
-||eflbundles.akbank.com^
+||cookieconsent.dfikir.com^
 ||bildirt.com^
 ||pushouse.com^
 ||pushs.euromsg.com^
