@@ -1,7 +1,7 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0302.1340.51
-! Last modified: 02 Mar 2026 13:40 UTC
+! Version: 2026.0302.1416.45
+! Last modified: 02 Mar 2026 14:16 UTC
 ! Syntax: AdBlock
 ! Entries: 190
 ! Maintainer: remad0
@@ -46,8 +46,8 @@
 ||stats.vidyome.com^
 ||widget.cdn.vidyome.com^
 ||outstream.cdn.vidyome.com^
-||eumdyn.denizbank.com^
 ||pixels.ingbank.com.tr^
+||eumdyn.denizbank.com^
 ||countly.fibabanka.com.tr^
 ||eflbundles.alternatifbank.com.tr^
 ||countly.teb.com.tr^
@@ -192,8 +192,8 @@
 ||cookiespool.com^
 ||cookieconsent.dfikir.com^
 ||bildirt.com^
-||pushouse.com^
 ||pushs.euromsg.com^
+||pushouse.com^
 ||clickmerkez.com^
-||engage-ae.com^
 ||epayment-gtm.turkcell.com.tr^
+||engage-ae.com^
