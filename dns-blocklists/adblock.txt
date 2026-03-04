@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0302.1833.07
-! Last modified: 02 Mar 2026 18:33 UTC
+! Version: 2026.0304.1304.31
+! Last modified: 04 Mar 2026 13:04 UTC
 ! Syntax: AdBlock
-! Entries: 204
+! Entries: 206
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -74,35 +74,34 @@
 ||t.onedio.com^
 ||hit.odatv.com^
 ||t.enuygun.com^
-||av2.sozcu.com.tr^
-||poltio.arcelik.com.tr^
-||sgtm.arcelik.com.tr^
-||sgtm.beko.com.tr^
-||sgtm.sefamerve.com^
-||matomo.teknosa.com^
-||analytics.twist.com.tr^
-||gtm.vivense.com^
-||signal.suwen.com.tr^
 ||gtm.dsdamat.com^
-||analytics.englishhome.com^
+||gtm.vivense.com^
+||av2.sozcu.com.tr^
+||sgtm.beko.com.tr^
 ||gtm.bynogame.com^
 ||signal.dr.com.tr^
 ||signal.kigili.com^
 ||collect.dugun.com^
+||sgtm.sefamerve.com^
+||matomo.teknosa.com^
 ||geoip.ciner.com.tr^
+||signals.teknosa.com^
+||sgtm.arcelik.com.tr^
+||analytics.dugun.com^
+||signal.suwen.com.tr^
+||signal.bkmkitap.com^
 ||sentry.bilyoner.com^
 ||analitik.bik.gov.tr^
 ||signals.a101.com.tr^
-||signals.teknosa.com^
-||analytics.dugun.com^
-||signal.bkmkitap.com^
 ||signals.modanisa.com^
 ||analytics.onedio.com^
 ||stats.videoseyred.in^
+||poltio.arcelik.com.tr^
 ||matomo.drupart.com.tr^
 ||visitors.bynogame.com^
 ||geoim.bloomberght.com^
 ||signal.milleni.com.tr^
+||analytics.twist.com.tr^
 ||geoloc.hurriyet.com.tr^
 ||api-stg.ensonhaber.com^
 ||tag.atasunoptik.com.tr^
@@ -119,6 +118,7 @@
 ||logpose-sentry.iddaa.com^
 ||sentry-prod.enuygun.tech^
 ||analytics.turksat.com.tr^
+||analytics.englishhome.com^
 ||datacollection.beymen.com^
 ||eum.instanas.opetcloud.net^
 ||action-log.yemeksepeti.com^
@@ -128,26 +128,26 @@
 ||personalization-event-service.modanisa.net^
 ||adsby.io^
 ||dimml.io^
+||orsis.net^
 ||adhood.com^
 ||makroo.com^
-||orsis.net^
 ||theadx.com^
 ||bilgin.pro^
 ||boomads.com^
 ||wordego.com^
 ||adhouse.pro^
-||adhouseapi.com^
 ||reklamz.com^
+||tvlyzer.com^
 ||pixad.com.tr^
 ||gmgreklam.com^
-||tvlyzer.com^
 ||networkad.net^
+||pisano.com.tr^
+||adhouseapi.com^
 ||ad-plus.com.tr^
 ||membrana.media^
 ||nativespot.com^
 ||reklamport.com^
 ||admatic.com.tr^
-||pisano.com.tr^
 ||brainsland.com^
 ||gelirartisi.com^
 ||reklamstore.com^
@@ -160,44 +160,46 @@
 ||count.ly^
 ||pghub.io^
 ||zotlo.com^
-||collectaction.com^
+||servg1.net^
 ||virgul.com^
 ||cdnstr.com^
-||webinstats.com^
 ||poltio.com^
-||servg1.net^
-||dengage.com^
-||segmenthub.com^
-||sgmntfy.com^
-||tmanalytic.path.com.tr^
-||mobildev.in^
-||netmera.com^
-||pigeoon.com^
-||visitorlab.com^
 ||revotas.com^
+||8digits.com^
+||mobildev.in^
+||dengage.com^
+||netmera.com^
+||sgmntfy.com^
+||pigeoon.com^
 ||setrowid.com^
-||hellosmpl.com^
 ||dataroid.com^
 ||visilabs.net^
-||binclusive.io^
 ||corpowid.com^
+||hellosmpl.com^
+||binclusive.io^
 ||subservis.com^
 ||usehardal.com^
+||webinstats.com^
+||segmenthub.com^
+||visitorlab.com^
 ||trk.storyly.io^
 ||segmentify.com^
 ||useinsider.com^
-||statistics.daktilo.com^
 ||wa.wawlabs.com^
 ||netmera-web.com^
 ||personaclick.com^
 ||analyticsb2c.com^
+||collectaction.com^
 ||analytics.turk.pro^
 ||collector.wawlabs.com^
+||tmanalytic.path.com.tr^
+||statistics.daktilo.com^
 ||analytics.ticimax.cloud^
 ||efilli.com^
 ||mookie1.com^
 ||cerezgo.com^
 ||cookiepro.com^
+||ucookie.com.tr^
 ||cookieseal.com^
 ||cookiespool.com^
 ||cookiebar.ideasoft.dev^
