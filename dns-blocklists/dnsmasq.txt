@@ -1,8 +1,8 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0304.1304.31
-! Last modified: 04 Mar 2026 13:04 UTC
-! Syntax: DNSMasq v2.86 or newer
+! Version: 2026.0304.1535.52
+! Last modified: 04 Mar 2026 15:35 UTC
+! Syntax: DNSMasq v2.86+
 ! Entries: 206
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
