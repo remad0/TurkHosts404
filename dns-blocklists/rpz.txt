@@ -1,7 +1,7 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0307.1354.09
-! Last modified: 07 Mar 2026 13:54 UTC
+! Version: 2026.0307.2254.23
+! Last modified: 07 Mar 2026 22:54 UTC
 ! Syntax: RPZ
 ! Entries: 412
 ! Maintainer: remad0
@@ -403,10 +403,10 @@ cookieconsent.dfikir.com CNAME .
 *.cookieconsent.dfikir.com CNAME .
 bildirt.com CNAME .
 *.bildirt.com CNAME .
-pushs.euromsg.com CNAME .
-*.pushs.euromsg.com CNAME .
 pushouse.com CNAME .
 *.pushouse.com CNAME .
+pushs.euromsg.com CNAME .
+*.pushs.euromsg.com CNAME .
 clickmerkez.com CNAME .
 *.clickmerkez.com CNAME .
 epayment-gtm.turkcell.com.tr CNAME .
