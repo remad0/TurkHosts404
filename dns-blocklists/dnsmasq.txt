@@ -1,7 +1,7 @@
 ! Title: TurkHosts404
 ! Description : Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Version: 2026.0307.1354.09
-! Last modified: 07 Mar 2026 13:54 UTC
+! Version: 2026.0307.2254.23
+! Last modified: 07 Mar 2026 22:54 UTC
 ! Syntax: DNSMasq v2.86+
 ! Entries: 206
 ! Maintainer: remad0
@@ -205,8 +205,8 @@ local=/cookiespool.com/
 local=/cookiebar.ideasoft.dev/
 local=/cookieconsent.dfikir.com/
 local=/bildirt.com/
-local=/pushs.euromsg.com/
 local=/pushouse.com/
+local=/pushs.euromsg.com/
 local=/clickmerkez.com/
 local=/epayment-gtm.turkcell.com.tr/
 local=/engage-ae.com/
