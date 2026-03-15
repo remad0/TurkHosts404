@@ -35,7 +35,7 @@ Listemize dahil edilen girdiler aşağıdaki niteliklere göre belirlenir:
 
 ### 🤝 Katkıda Bulunma
 
-Bu depoda **çekme istekleri (pull request)** kabul edilmemektedir; alan adı önerilerini, hatalı engellemeleri veya genel geri bildirimleri **[Issues](../../issues)** bölümünden iletebilirsiniz.
+Bu depoda **çekme istekleri (pull request)** kabul edilmemektedir; alan adı önerilerini, hatalı engellemeleri veya genel geri bildirimleri [GitHub](https://github.com/remad0/TurkHosts404/issues), [GitLab](https://gitlab.com/remad0/turkhosts404/-/work_items) veya [Codeberg](https://codeberg.org/remad0/TurkHosts404/issues) üzerinden iletebilirsiniz.
 
 
 ### ⚖️ Lisans
