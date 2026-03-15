@@ -33,6 +33,11 @@ Listemize dahil edilen girdiler aşağıdaki niteliklere göre belirlenir:
 | **Hosts** | [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://raw.githubusercontent.com/remad0/TurkHosts404/refs/heads/main/dns-blocklists/hosts.txt) [![](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/remad0/TurkHosts404/-/raw/main/dns-blocklists/hosts.txt) [![](https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/remad0/TurkHosts404/raw/branch/main/dns-blocklists/hosts.txt) | [![](https://img.shields.io/badge/jsDelivr-E84D31?style=flat-square&logo=jsdelivr&logoColor=white)](https://cdn.jsdelivr.net/gh/remad0/TurkHosts404/dns-blocklists/hosts.txt) | 15 Mar 2026 03:08 | 206 | 6.0 KB | AdAway, uMatrix, OpenSnitch, DNS66, NetGuard, Hostfile, Linux |
 | **RPZ** | [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://raw.githubusercontent.com/remad0/TurkHosts404/refs/heads/main/dns-blocklists/rpz.txt) [![](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/remad0/TurkHosts404/-/raw/main/dns-blocklists/rpz.txt) [![](https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/remad0/TurkHosts404/raw/branch/main/dns-blocklists/rpz.txt) | [![](https://img.shields.io/badge/jsDelivr-E84D31?style=flat-square&logo=jsdelivr&logoColor=white)](https://cdn.jsdelivr.net/gh/remad0/TurkHosts404/dns-blocklists/rpz.txt) | 15 Mar 2026 03:08 | 412 | 12.1 KB | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
+### 🤝 Katkıda Bulunma
+
+Bu depoda **çekme istekleri (pull request)** kabul edilmemektedir; alan adı önerilerini, hatalı engellemeleri veya genel geri bildirimleri **[Issues](../../issues)** bölümünden iletebilirsiniz.
+
+
 ### ⚖️ Lisans
 
 Bu proje **[GNU GPL v3](LICENSE)** altında lisanslanmıştır.
