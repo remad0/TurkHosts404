@@ -2,8 +2,8 @@
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Hosts
 ! Entries: 206
-! Version: 2026.0315.0008.49
-! Last modified: 15 Mar 2026 00:08 UTC
+! Version: 2026.0315.1803.10
+! Last modified: 15 Mar 2026 18:03 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
