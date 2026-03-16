@@ -19,8 +19,8 @@ Listemize dahil edilen girdiler aşağıdaki niteliklere göre belirlenir:
 | 🚫 **Reklamlar** | Web, uygulama ve video içerikli reklam ağları. |
 | 🕵️ **İzleyiciler** | Gezinti davranışlarını takip eden izleme ağları. |
 | 📊 **Analitikler** | Veri toplama ve kullanım istatistiği hizmetleri. |
-| 💥 **Pop-up'lar** | Açılır pencereler ve tam ekran reklam uyarıları. |
 | 🍪 **Çerezler** | Gezintiyi zorlaştıran onay kutuları ve bildirimler. |
+| 💥 **Açılır Pencereler** | Açılır pencereler ve tam ekran reklam uyarıları. |
 | 🧩 **Rahatsız Ediciler** | Sosyal medya düğmeleri ve uygulama tanıtım afişleri. |
 
 ### 💻 Desteklenen İstemciler
