@@ -37,6 +37,9 @@ Listemize dahil edilen girdiler aşağıdaki niteliklere göre belirlenir:
 
 Bu depoda **çekme istekleri (pull request)** kabul edilmemektedir; alan adı önerilerini, hatalı engellemeleri veya genel geri bildirimleri [GitHub](https://github.com/remad0/TurkHosts404/issues), [GitLab](https://gitlab.com/remad0/turkhosts404/-/work_items) veya [Codeberg](https://codeberg.org/remad0/TurkHosts404/issues) üzerinden iletebilirsiniz.
 
+### 👏 Teşekkürler
+
+Bu proje, toplulukta geniş kitleler tarafından kullanılan **[Hagezi'nin DNS Blocklists](https://github.com/hagezi/dns-blocklists)** projesinden esinlenilmiştir. Topluluğa sağladığı katkılar için kendisine teşekkür ederiz.
 
 ### ⚖️ Lisans
 
