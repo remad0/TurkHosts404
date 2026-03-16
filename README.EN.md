@@ -19,8 +19,8 @@ Entries included in our list are determined according to the following criteria:
 | 🚫 **Ads** | Web, app, and video-based advertising networks. |
 | 🕵️ **Trackers** | Tracking networks that monitor browsing behavior. |
 | 📊 **Analytics** | Data collection and usage statistics services. |
-| 💥 **Pop-ups** | Pop-up windows and full-screen ad warnings. |
 | 🍪 **Cookies** | Consent boxes and notifications that hinder browsing. |
+| 💥 **Pop-ups** | Pop-up windows and full-screen ad warnings. |
 | 🧩 **Annoyances** | Social media buttons and app promotion banners. |
 
 ### 💻 Supported Clients
