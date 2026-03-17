@@ -1,15 +1,15 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: DNSMasq v2.86+
-! Entries: 206
-! Version: 2026.0315.1803.10
-! Last modified: 15 Mar 2026 18:03 UTC
+! Entries: 207
+! Version: 2026.0317.2008.04
+! Last modified: 17 Mar 2026 20:08 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
 !
-local=/makroo.haber7.net/
 local=/adsp.haberturk.com/
+local=/makroo.haber7.net/
 local=/adsby.io/
 local=/dimml.io/
 local=/orsis.net/
@@ -163,6 +163,7 @@ local=/delphoi-tr-milla-collect.trendyol-milla.com/
 local=/demeter-tr-milla-collect.trendyol-milla.com/
 local=/a.n11.com/
 local=/h.n11.com/
+local=/ipr.n11.com/
 local=/athena-event-provider.n11.com/
 local=/apm.arabam.com/
 local=/signal.arabam.com/
