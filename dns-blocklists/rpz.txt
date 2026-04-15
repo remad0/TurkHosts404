@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 418
-! Version: 2026.0415.1506.37
-! Last modified: 15 Apr 2026 15:06 UTC
+! Entries: 422
+! Version: 2026.0415.1523.20
+! Last modified: 15 Apr 2026 15:23 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -376,6 +376,8 @@ countly.teb.com.tr CNAME .
 *.countly.teb.com.tr CNAME .
 eumdyn.denizbank.com CNAME .
 *.eumdyn.denizbank.com CNAME .
+eum.vakifkatilim.com.tr CNAME .
+*.eum.vakifkatilim.com.tr CNAME .
 pixels.ingbank.com.tr CNAME .
 *.pixels.ingbank.com.tr CNAME .
 eflbundles.akbank.com CNAME .
@@ -392,6 +394,8 @@ api-dataroid.akbank.com.tr CNAME .
 *.api-dataroid.akbank.com.tr CNAME .
 cdn-dataroid.akbank.com.tr CNAME .
 *.cdn-dataroid.akbank.com.tr CNAME .
+countly.vakifbank.com.tr CNAME .
+*.countly.vakifbank.com.tr CNAME .
 pisano-api.vakifbank.com.tr CNAME .
 *.pisano-api.vakifbank.com.tr CNAME .
 pisano-web.vakifbank.com.tr CNAME .
