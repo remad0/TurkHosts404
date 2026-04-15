@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Domains, Subdomains
-! Entries: 209
-! Version: 2026.0415.1506.37
-! Last modified: 15 Apr 2026 15:06 UTC
+! Entries: 211
+! Version: 2026.0415.1523.20
+! Last modified: 15 Apr 2026 15:23 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -192,6 +192,7 @@ pushouse.com
 pushs.euromsg.com
 countly.teb.com.tr
 eumdyn.denizbank.com
+eum.vakifkatilim.com.tr
 pixels.ingbank.com.tr
 eflbundles.akbank.com
 eflanalytic.akbank.com
@@ -200,6 +201,7 @@ countly.fibabanka.com.tr
 analytics.halkbank.com.tr
 api-dataroid.akbank.com.tr
 cdn-dataroid.akbank.com.tr
+countly.vakifbank.com.tr
 pisano-api.vakifbank.com.tr
 pisano-web.vakifbank.com.tr
 developer.kuveytturk.com.tr
