@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 422
-! Version: 2026.0415.1523.20
-! Last modified: 15 Apr 2026 15:23 UTC
+! Entries: 424
+! Version: 2026.0415.1957.26
+! Last modified: 15 Apr 2026 19:57 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -326,6 +326,8 @@ apm.arabam.com CNAME .
 *.apm.arabam.com CNAME .
 signal.arabam.com CNAME .
 *.signal.arabam.com CNAME .
+istatistik.arabam.com CNAME .
+*.istatistik.arabam.com CNAME .
 hodor-collect.arabam.com CNAME .
 *.hodor-collect.arabam.com CNAME .
 epayment-gtm.turkcell.com.tr CNAME .
