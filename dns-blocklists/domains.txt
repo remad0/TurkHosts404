@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Domains, Subdomains
-! Entries: 208
-! Version: 2026.0415.1455.16
-! Last modified: 15 Apr 2026 14:55 UTC
+! Entries: 209
+! Version: 2026.0415.1506.37
+! Last modified: 15 Apr 2026 15:06 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -215,4 +215,5 @@ clickmerkez.com
 d370pv1i0ks4ah.cloudfront.net
 europe-west1-smpl-cloud.cloudfunctions.net
 collector-pxljub4etb.cl6.px-cloud.net
+analytics.denizbank.go.link
 engage-ae.com
