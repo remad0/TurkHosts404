@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: DNSMasq v2.86+
-! Entries: 207
-! Version: 2026.0317.2008.04
-! Last modified: 17 Mar 2026 20:08 UTC
+! Entries: 208
+! Version: 2026.0415.1455.16
+! Last modified: 15 Apr 2026 14:55 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -198,6 +198,7 @@ local=/eflanalytic.akbank.com/
 local=/cookiewarden.teb.com.tr/
 local=/countly.fibabanka.com.tr/
 local=/analytics.halkbank.com.tr/
+local=/api-dataroid.akbank.com.tr/
 local=/cdn-dataroid.akbank.com.tr/
 local=/pisano-api.vakifbank.com.tr/
 local=/pisano-web.vakifbank.com.tr/
