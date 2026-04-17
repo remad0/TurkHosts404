@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 424
-! Version: 2026.0415.1957.26
-! Last modified: 15 Apr 2026 19:57 UTC
+! Entries: 444
+! Version: 2026.0417.1316.36
+! Last modified: 17 Apr 2026 13:16 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -282,6 +282,26 @@ hba9.hepsiburada.com CNAME .
 *.hba9.hepsiburada.com CNAME .
 hba10.hepsiburada.com CNAME .
 *.hba10.hepsiburada.com CNAME .
+htm1.hepsiburada.com CNAME .
+*.htm1.hepsiburada.com CNAME .
+htm2.hepsiburada.com CNAME .
+*.htm2.hepsiburada.com CNAME .
+htm3.hepsiburada.com CNAME .
+*.htm3.hepsiburada.com CNAME .
+htm4.hepsiburada.com CNAME .
+*.htm4.hepsiburada.com CNAME .
+htm5.hepsiburada.com CNAME .
+*.htm5.hepsiburada.com CNAME .
+htm6.hepsiburada.com CNAME .
+*.htm6.hepsiburada.com CNAME .
+htm7.hepsiburada.com CNAME .
+*.htm7.hepsiburada.com CNAME .
+htm8.hepsiburada.com CNAME .
+*.htm8.hepsiburada.com CNAME .
+htm9.hepsiburada.com CNAME .
+*.htm9.hepsiburada.com CNAME .
+htm10.hepsiburada.com CNAME .
+*.htm10.hepsiburada.com CNAME .
 hstats.hepsiburada.com CNAME .
 *.hstats.hepsiburada.com CNAME .
 adservice.hepsiburada.com CNAME .
