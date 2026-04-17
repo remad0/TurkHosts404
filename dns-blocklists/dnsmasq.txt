@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: DNSMasq v2.86+
-! Entries: 212
-! Version: 2026.0415.1957.26
-! Last modified: 15 Apr 2026 19:57 UTC
+! Entries: 222
+! Version: 2026.0417.1316.36
+! Last modified: 17 Apr 2026 13:16 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -145,6 +145,16 @@ local=/hba7.hepsiburada.com/
 local=/hba8.hepsiburada.com/
 local=/hba9.hepsiburada.com/
 local=/hba10.hepsiburada.com/
+local=/htm1.hepsiburada.com/
+local=/htm2.hepsiburada.com/
+local=/htm3.hepsiburada.com/
+local=/htm4.hepsiburada.com/
+local=/htm5.hepsiburada.com/
+local=/htm6.hepsiburada.com/
+local=/htm7.hepsiburada.com/
+local=/htm8.hepsiburada.com/
+local=/htm9.hepsiburada.com/
+local=/htm10.hepsiburada.com/
 local=/hstats.hepsiburada.com/
 local=/adservice.hepsiburada.com/
 local=/hepsiads-gw.hepsiburada.com/
