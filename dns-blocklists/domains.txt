@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Domains, Subdomains
-! Entries: 212
-! Version: 2026.0415.1957.26
-! Last modified: 15 Apr 2026 19:57 UTC
+! Entries: 222
+! Version: 2026.0417.1316.36
+! Last modified: 17 Apr 2026 13:16 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -145,6 +145,16 @@ hba7.hepsiburada.com
 hba8.hepsiburada.com
 hba9.hepsiburada.com
 hba10.hepsiburada.com
+htm1.hepsiburada.com
+htm2.hepsiburada.com
+htm3.hepsiburada.com
+htm4.hepsiburada.com
+htm5.hepsiburada.com
+htm6.hepsiburada.com
+htm7.hepsiburada.com
+htm8.hepsiburada.com
+htm9.hepsiburada.com
+htm10.hepsiburada.com
 hstats.hepsiburada.com
 adservice.hepsiburada.com
 hepsiads-gw.hepsiburada.com
