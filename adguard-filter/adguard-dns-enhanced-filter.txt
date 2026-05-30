@@ -1,8 +1,8 @@
 ! Title: TurkHosts404 - AdGuard DNS Enhanced Filter
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
-! Entries: 6
-! Version: 2026.0417.1331.22
-! Last modified: 17 Apr 2026 13:31 UTC
+! Entries: 7
+! Version: 2026.0530.1218.55
+! Last modified: 30 May 2026 12:18 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -13,3 +13,4 @@
 ||hepsiads-*.hepsiburada.com^
 ||*collect*.trendyol.com^
 ||*collect*.trendyol-milla.com^
+||sentry.ercdn.com^$dnsrewrite=NOERROR;A;1.2.3.4
