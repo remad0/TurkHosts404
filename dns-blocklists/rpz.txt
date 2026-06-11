@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 444
-! Version: 2026.0417.1316.36
-! Last modified: 17 Apr 2026 13:16 UTC
+! Entries: 446
+! Version: 2026.0611.2051.37
+! Last modified: 11 Jun 2026 20:51 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -356,6 +356,8 @@ ws.sahibinden.com CNAME .
 *.ws.sahibinden.com CNAME .
 pan.pazarama.com CNAME .
 *.pan.pazarama.com CNAME .
+csa.pttavm.com CNAME .
+*.csa.pttavm.com CNAME .
 stats.vidyome.com CNAME .
 *.stats.vidyome.com CNAME .
 widget.cdn.vidyome.com CNAME .
