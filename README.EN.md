@@ -37,7 +37,7 @@ Entries included in our list are determined according to the following criteria:
 
 ### 🤝 Contributing
 
-**Pull requests** are not accepted in this repository; you can submit domain suggestions, false positives, or general feedback via the Issues section on [GitHub](https://github.com/remad0/TurkHosts404/issues), [GitLab](https://gitlab.com/remad0/turkhosts404/-/work_items), or [Codeberg](https://codeberg.org/remad0/TurkHosts404/issues).
+**Pull requests** are not accepted in this repository; you can submit domain suggestions, false positives, or general feedback via the Issues section on [GitHub](https://github.com/remad0/TurkHosts404/issues).
 
 ### 👏 Credits
 
