@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: AdBlock
-! Entries: 223
-! Version: 2026.0611.2051.37
-! Last modified: 11 Jun 2026 20:51 UTC
+! Entries: 235
+! Version: 2026.0614.0006.42
+! Last modified: 14 Jun 2026 00:06 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -15,18 +15,24 @@
 ||orsis.net^
 ||adhood.com^
 ||makroo.com^
+||usehardal.com^
+||rekmob.com^
+||adcropper.com^
 ||theadx.com^
 ||bilgin.pro^
 ||boomads.com^
 ||wordego.com^
 ||adhouse.pro^
 ||reklamz.com^
+||admost.com^
 ||tvlyzer.com^
 ||pixad.com.tr^
 ||gmgreklam.com^
 ||networkad.net^
+||reklamup.com^
 ||pisano.com.tr^
 ||adhouseapi.com^
+||brandturbo.vip^
 ||ad-plus.com.tr^
 ||membrana.media^
 ||nativespot.com^
@@ -59,6 +65,7 @@
 ||signals.teknosa.com^
 ||sgtm.arcelik.com.tr^
 ||analytics.dugun.com^
+||sa-api.webrazzi.com^
 ||signal.suwen.com.tr^
 ||signal.bkmkitap.com^
 ||sentry.bilyoner.com^
@@ -113,7 +120,6 @@
 ||binclusive.io^
 ||hellosmpl.com^
 ||subservis.com^
-||usehardal.com^
 ||webinstats.com^
 ||segmenthub.com^
 ||visitorlab.com^
@@ -186,12 +192,19 @@
 ||stats.vidyome.com^
 ||widget.cdn.vidyome.com^
 ||outstream.cdn.vidyome.com^
+||jus.com.tr^
 ||efilli.com^
 ||modeto.com^
 ||mookie1.com^
+||bildirt.com^
+||cerezify.com^
 ||cerezgo.com^
+||pushouse.com^
+||cerezbox.com^
 ||cookiepro.com^
+||cooqee.com.tr^
 ||ucookie.com.tr^
+||ajansepika.com^
 ||cookieseal.com^
 ||cookiespool.com^
 ||cookiebar.ideasoft.dev^
@@ -199,9 +212,8 @@
 ||poltio.arcelik.com.tr^
 ||oneri.atasunoptik.com.tr^
 ||poltio.com^
-||bildirt.com^
-||pushouse.com^
 ||pushs.euromsg.com^
+||notification.farktor.com^
 ||countly.teb.com.tr^
 ||eumdyn.denizbank.com^
 ||eum.vakifkatilim.com.tr^
