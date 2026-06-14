@@ -1,19 +1,16 @@
 ! Title: TurkHosts404 - AdGuard DNS Enhanced Filter
-! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, and annoyances using advanced methods.
-! Entries: 10
-! Version: 2026.0614.0006.42
-! Last modified: 14 Jun 2026 00:06 UTC
+! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
+! Entries: 7
+! Version: 2026.0614.1009.38
+! Last modified: 14 Jun 2026 10:09 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
 !
-/dataroid.*\.[^.]+\.[^.]+$/
-/pisano.*\.[^.]+\.[^.]+$/
-/poltio.*\.[^.]+\.[^.]+$/
-/netmera.*\.[^.]+\.[^.]+$/
-/pnsdkapi.*\.[^.]+\.[^.]+$/
-/^[a-z0-9-.]*collect[a-z0-9-]*\.arabam\.com$/
-/^[a-z0-9-.]*collect[a-z0-9-]*\.(trendyol|trendyol-milla)\.com$/
-/^(hba|htm)[0-9]+\.hepsiburada\.com$/
-/^hepsiads-[a-z0-9-]*\.hepsiburada\.com$/
+*dataroid*
+||htm*.hepsiburada.com^
+||hba*.hepsiburada.com^
+||hepsiads-*.hepsiburada.com^
+||*collect*.trendyol.com^
+||*collect*.trendyol-milla.com^
 ||sentry.ercdn.com^$dnsrewrite=NOERROR;A;1.2.3.4
