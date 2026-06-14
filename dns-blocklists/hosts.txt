@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Hosts
-! Entries: 223
-! Version: 2026.0611.2051.37
-! Last modified: 11 Jun 2026 20:51 UTC
+! Entries: 235
+! Version: 2026.0614.0006.42
+! Last modified: 14 Jun 2026 00:06 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -15,18 +15,24 @@
 0.0.0.0 orsis.net
 0.0.0.0 adhood.com
 0.0.0.0 makroo.com
+0.0.0.0 usehardal.com
+0.0.0.0 rekmob.com
+0.0.0.0 adcropper.com
 0.0.0.0 theadx.com
 0.0.0.0 bilgin.pro
 0.0.0.0 boomads.com
 0.0.0.0 wordego.com
 0.0.0.0 adhouse.pro
 0.0.0.0 reklamz.com
+0.0.0.0 admost.com
 0.0.0.0 tvlyzer.com
 0.0.0.0 pixad.com.tr
 0.0.0.0 gmgreklam.com
 0.0.0.0 networkad.net
+0.0.0.0 reklamup.com
 0.0.0.0 pisano.com.tr
 0.0.0.0 adhouseapi.com
+0.0.0.0 brandturbo.vip
 0.0.0.0 ad-plus.com.tr
 0.0.0.0 membrana.media
 0.0.0.0 nativespot.com
@@ -59,6 +65,7 @@
 0.0.0.0 signals.teknosa.com
 0.0.0.0 sgtm.arcelik.com.tr
 0.0.0.0 analytics.dugun.com
+0.0.0.0 sa-api.webrazzi.com
 0.0.0.0 signal.suwen.com.tr
 0.0.0.0 signal.bkmkitap.com
 0.0.0.0 sentry.bilyoner.com
@@ -113,7 +120,6 @@
 0.0.0.0 binclusive.io
 0.0.0.0 hellosmpl.com
 0.0.0.0 subservis.com
-0.0.0.0 usehardal.com
 0.0.0.0 webinstats.com
 0.0.0.0 segmenthub.com
 0.0.0.0 visitorlab.com
@@ -186,12 +192,19 @@
 0.0.0.0 stats.vidyome.com
 0.0.0.0 widget.cdn.vidyome.com
 0.0.0.0 outstream.cdn.vidyome.com
+0.0.0.0 jus.com.tr
 0.0.0.0 efilli.com
 0.0.0.0 modeto.com
 0.0.0.0 mookie1.com
+0.0.0.0 bildirt.com
+0.0.0.0 cerezify.com
 0.0.0.0 cerezgo.com
+0.0.0.0 pushouse.com
+0.0.0.0 cerezbox.com
 0.0.0.0 cookiepro.com
+0.0.0.0 cooqee.com.tr
 0.0.0.0 ucookie.com.tr
+0.0.0.0 ajansepika.com
 0.0.0.0 cookieseal.com
 0.0.0.0 cookiespool.com
 0.0.0.0 cookiebar.ideasoft.dev
@@ -199,9 +212,8 @@
 0.0.0.0 poltio.arcelik.com.tr
 0.0.0.0 oneri.atasunoptik.com.tr
 0.0.0.0 poltio.com
-0.0.0.0 bildirt.com
-0.0.0.0 pushouse.com
 0.0.0.0 pushs.euromsg.com
+0.0.0.0 notification.farktor.com
 0.0.0.0 countly.teb.com.tr
 0.0.0.0 eumdyn.denizbank.com
 0.0.0.0 eum.vakifkatilim.com.tr
