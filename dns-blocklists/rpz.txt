@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 446
-! Version: 2026.0614.1009.38
-! Last modified: 14 Jun 2026 10:09 UTC
+! Entries: 470
+! Version: 2026.0614.1054.12
+! Last modified: 14 Jun 2026 10:54 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -20,8 +20,14 @@ orsis.net CNAME .
 *.orsis.net CNAME .
 makroo.com CNAME .
 *.makroo.com CNAME .
+usehardal.com CNAME .
+*.usehardal.com CNAME .
+rekmob.com CNAME .
+*.rekmob.com CNAME .
 adhood.com CNAME .
 *.adhood.com CNAME .
+adcropper.com CNAME .
+*.adcropper.com CNAME .
 theadx.com CNAME .
 *.theadx.com CNAME .
 bilgin.pro CNAME .
@@ -34,6 +40,8 @@ adhouse.pro CNAME .
 *.adhouse.pro CNAME .
 reklamz.com CNAME .
 *.reklamz.com CNAME .
+admost.com CNAME .
+*.admost.com CNAME .
 tvlyzer.com CNAME .
 *.tvlyzer.com CNAME .
 pixad.com.tr CNAME .
@@ -42,10 +50,14 @@ gmgreklam.com CNAME .
 *.gmgreklam.com CNAME .
 networkad.net CNAME .
 *.networkad.net CNAME .
+reklamup.com CNAME .
+*.reklamup.com CNAME .
 pisano.com.tr CNAME .
 *.pisano.com.tr CNAME .
 adhouseapi.com CNAME .
 *.adhouseapi.com CNAME .
+brandturbo.vip CNAME .
+*.brandturbo.vip CNAME .
 ad-plus.com.tr CNAME .
 *.ad-plus.com.tr CNAME .
 membrana.media CNAME .
@@ -110,6 +122,8 @@ sgtm.arcelik.com.tr CNAME .
 *.sgtm.arcelik.com.tr CNAME .
 analytics.dugun.com CNAME .
 *.analytics.dugun.com CNAME .
+sa-api.webrazzi.com CNAME .
+*.sa-api.webrazzi.com CNAME .
 signal.suwen.com.tr CNAME .
 *.signal.suwen.com.tr CNAME .
 signal.bkmkitap.com CNAME .
@@ -218,8 +232,6 @@ hellosmpl.com CNAME .
 *.hellosmpl.com CNAME .
 subservis.com CNAME .
 *.subservis.com CNAME .
-usehardal.com CNAME .
-*.usehardal.com CNAME .
 webinstats.com CNAME .
 *.webinstats.com CNAME .
 segmenthub.com CNAME .
@@ -364,18 +376,30 @@ widget.cdn.vidyome.com CNAME .
 *.widget.cdn.vidyome.com CNAME .
 outstream.cdn.vidyome.com CNAME .
 *.outstream.cdn.vidyome.com CNAME .
+jus.com.tr CNAME .
+*.jus.com.tr CNAME .
 efilli.com CNAME .
 *.efilli.com CNAME .
 modeto.com CNAME .
 *.modeto.com CNAME .
 mookie1.com CNAME .
 *.mookie1.com CNAME .
+bildirt.com CNAME .
+*.bildirt.com CNAME .
+cerezify.com CNAME .
+*.cerezify.com CNAME .
 cerezgo.com CNAME .
 *.cerezgo.com CNAME .
+cerezbox.com CNAME .
+*.cerezbox.com CNAME .
 cookiepro.com CNAME .
 *.cookiepro.com CNAME .
+cooqee.com.tr CNAME .
+*.cooqee.com.tr CNAME .
 ucookie.com.tr CNAME .
 *.ucookie.com.tr CNAME .
+ajansepika.com CNAME .
+*.ajansepika.com CNAME .
 cookieseal.com CNAME .
 *.cookieseal.com CNAME .
 cookiespool.com CNAME .
@@ -390,12 +414,12 @@ oneri.atasunoptik.com.tr CNAME .
 *.oneri.atasunoptik.com.tr CNAME .
 poltio.com CNAME .
 *.poltio.com CNAME .
-bildirt.com CNAME .
-*.bildirt.com CNAME .
 pushouse.com CNAME .
 *.pushouse.com CNAME .
 pushs.euromsg.com CNAME .
 *.pushs.euromsg.com CNAME .
+notification.farktor.com CNAME .
+*.notification.farktor.com CNAME .
 countly.teb.com.tr CNAME .
 *.countly.teb.com.tr CNAME .
 eumdyn.denizbank.com CNAME .
