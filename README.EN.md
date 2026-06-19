@@ -4,6 +4,8 @@
 
 # 🛡️ TurkHosts404
 
+</div>
+
 ### ❓ Why TurkHosts404?
 **TurkHosts404** does not include global domain names, unlike other Turkish regional lists. It is designed as a **complementary list** that can be used alongside global lists. By focusing only on Turkish regional content, it offers a simple and effective list.
 
