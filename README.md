@@ -4,6 +4,8 @@
 
 # 🛡️ TurkHosts404
 
+</div>
+
 ### ❓ Neden TurkHosts404?
 **TurkHosts404** diğer Türk bölgesel listelerinden farklı olarak küresel alan adlarını içermez. Küresel listelerin yanında kullanılabilecek bir **tamamlayıcı liste** olarak tasarlanmıştır. Sadece Türkiye menşeli bölgesel içeriklere odaklanarak sade ve etkili bir liste sunar.
 
