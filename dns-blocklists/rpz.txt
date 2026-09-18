@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 470
-! Version: 2026.0614.1054.12
-! Last modified: 14 Jun 2026 10:54 UTC
+! Entries: 476
+! Version: 2026.0918.0403.27
+! Last modified: 18 Sep 2026 04:03 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -102,6 +102,8 @@ av2.sozcu.com.tr CNAME .
 *.av2.sozcu.com.tr CNAME .
 sgtm.beko.com.tr CNAME .
 *.sgtm.beko.com.tr CNAME .
+trackerapi.defacto.com CNAME .
+*.trackerapi.defacto.com CNAME .
 gtm.bynogame.com CNAME .
 *.gtm.bynogame.com CNAME .
 signal.dr.com.tr CNAME .
@@ -334,6 +336,8 @@ collect.trendyol.com CNAME .
 *.collect.trendyol.com CNAME .
 demeter.trendyol.com CNAME .
 *.demeter.trendyol.com CNAME .
+demeter-api.trendyol.com CNAME .
+*.demeter-api.trendyol.com CNAME .
 tracker.trendyol.global CNAME .
 *.tracker.trendyol.global CNAME .
 beholder-otlp.trendyol.com CNAME .
@@ -438,6 +442,8 @@ countly.fibabanka.com.tr CNAME .
 *.countly.fibabanka.com.tr CNAME .
 analytics.halkbank.com.tr CNAME .
 *.analytics.halkbank.com.tr CNAME .
+appconnect.isbank.com.tr CNAME .
+*.appconnect.isbank.com.tr CNAME .
 api-dataroid.akbank.com.tr CNAME .
 *.api-dataroid.akbank.com.tr CNAME .
 cdn-dataroid.akbank.com.tr CNAME .
