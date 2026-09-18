@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: DNSMasq v2.86+
-! Entries: 235
-! Version: 2026.0614.1054.12
-! Last modified: 14 Jun 2026 10:54 UTC
+! Entries: 238
+! Version: 2026.0918.0403.27
+! Last modified: 18 Sep 2026 04:03 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -55,6 +55,7 @@ local=/gtm.dsdamat.com/
 local=/gtm.vivense.com/
 local=/av2.sozcu.com.tr/
 local=/sgtm.beko.com.tr/
+local=/trackerapi.defacto.com/
 local=/gtm.bynogame.com/
 local=/signal.dr.com.tr/
 local=/signal.kigili.com/
@@ -171,6 +172,7 @@ local=/metric-collector.hepsipay.com/
 local=/delphoi.tgoapps.com/
 local=/collect.trendyol.com/
 local=/demeter.trendyol.com/
+local=/demeter-api.trendyol.com/
 local=/tracker.trendyol.global/
 local=/beholder-otlp.trendyol.com/
 local=/demeter-tr-core-collect.trendyol.com/
@@ -223,6 +225,7 @@ local=/eflanalytic.akbank.com/
 local=/cookiewarden.teb.com.tr/
 local=/countly.fibabanka.com.tr/
 local=/analytics.halkbank.com.tr/
+local=/appconnect.isbank.com.tr/
 local=/api-dataroid.akbank.com.tr/
 local=/cdn-dataroid.akbank.com.tr/
 local=/countly.vakifbank.com.tr/
