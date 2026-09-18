@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Hosts
-! Entries: 235
-! Version: 2026.0614.1054.12
-! Last modified: 14 Jun 2026 10:54 UTC
+! Entries: 238
+! Version: 2026.0918.0403.27
+! Last modified: 18 Sep 2026 04:03 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -55,6 +55,7 @@
 0.0.0.0 gtm.vivense.com
 0.0.0.0 av2.sozcu.com.tr
 0.0.0.0 sgtm.beko.com.tr
+0.0.0.0 trackerapi.defacto.com
 0.0.0.0 gtm.bynogame.com
 0.0.0.0 signal.dr.com.tr
 0.0.0.0 signal.kigili.com
@@ -171,6 +172,7 @@
 0.0.0.0 delphoi.tgoapps.com
 0.0.0.0 collect.trendyol.com
 0.0.0.0 demeter.trendyol.com
+0.0.0.0 demeter-api.trendyol.com
 0.0.0.0 tracker.trendyol.global
 0.0.0.0 beholder-otlp.trendyol.com
 0.0.0.0 demeter-tr-core-collect.trendyol.com
@@ -223,6 +225,7 @@
 0.0.0.0 cookiewarden.teb.com.tr
 0.0.0.0 countly.fibabanka.com.tr
 0.0.0.0 analytics.halkbank.com.tr
+0.0.0.0 appconnect.isbank.com.tr
 0.0.0.0 api-dataroid.akbank.com.tr
 0.0.0.0 cdn-dataroid.akbank.com.tr
 0.0.0.0 countly.vakifbank.com.tr
