@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 476
-! Version: 2026.0918.0403.27
-! Last modified: 18 Sep 2026 04:03 UTC
+! Entries: 478
+! Version: 2026.0921.0417.14
+! Last modified: 21 Sep 2026 04:17 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -12,6 +12,8 @@ adsp.haberturk.com CNAME .
 *.adsp.haberturk.com CNAME .
 makroo.haber7.net CNAME .
 *.makroo.haber7.net CNAME .
+tvadbox-mwservice.digiturk.com.tr CNAME .
+*.tvadbox-mwservice.digiturk.com.tr CNAME .
 adsby.io CNAME .
 *.adsby.io CNAME .
 dimml.io CNAME .
