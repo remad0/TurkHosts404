@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 480
-! Version: 2026.0923.0410.03
-! Last modified: 23 Sep 2026 04:10 UTC
+! Entries: 482
+! Version: 2026.0927.0440.52
+! Last modified: 27 Sep 2026 04:40 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -254,6 +254,8 @@ netmera-web.com CNAME .
 *.netmera-web.com CNAME .
 personaclick.com CNAME .
 *.personaclick.com CNAME .
+capra.solutions CNAME .
+*.capra.solutions CNAME .
 analyticsb2c.com CNAME .
 *.analyticsb2c.com CNAME .
 collectaction.com CNAME .
