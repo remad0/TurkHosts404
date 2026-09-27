@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Hosts
-! Entries: 240
-! Version: 2026.0923.0410.03
-! Last modified: 23 Sep 2026 04:10 UTC
+! Entries: 241
+! Version: 2026.0927.0440.52
+! Last modified: 27 Sep 2026 04:40 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -131,6 +131,7 @@
 0.0.0.0 wa.wawlabs.com
 0.0.0.0 netmera-web.com
 0.0.0.0 personaclick.com
+0.0.0.0 capra.solutions
 0.0.0.0 analyticsb2c.com
 0.0.0.0 collectaction.com
 0.0.0.0 analytics.turk.pro
