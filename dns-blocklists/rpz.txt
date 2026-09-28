@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 482
-! Version: 2026.0927.0440.52
-! Last modified: 27 Sep 2026 04:40 UTC
+! Entries: 486
+! Version: 2026.0928.0442.37
+! Last modified: 28 Sep 2026 04:42 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -12,6 +12,8 @@ adsp.haberturk.com CNAME .
 *.adsp.haberturk.com CNAME .
 makroo.haber7.net CNAME .
 *.makroo.haber7.net CNAME .
+adserve.donanimhaber.com CNAME .
+*.adserve.donanimhaber.com CNAME .
 tvadbox-mwservice.digiturk.com.tr CNAME .
 *.tvadbox-mwservice.digiturk.com.tr CNAME .
 adsby.io CNAME .
@@ -106,6 +108,8 @@ sgtm.beko.com.tr CNAME .
 *.sgtm.beko.com.tr CNAME .
 trackerapi.defacto.com CNAME .
 *.trackerapi.defacto.com CNAME .
+btinstana.turktelekom.com.tr CNAME .
+*.btinstana.turktelekom.com.tr CNAME .
 gtm.bynogame.com CNAME .
 *.gtm.bynogame.com CNAME .
 signal.dr.com.tr CNAME .
