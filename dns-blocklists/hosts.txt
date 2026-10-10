@@ -1,17 +1,19 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Hosts
-! Entries: 243
-! Version: 2026.0928.0442.37
-! Last modified: 28 Sep 2026 04:42 UTC
+! Entries: 248
+! Version: 2026.1010.0513.52
+! Last modified: 10 Oct 2026 05:13 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
 !
 0.0.0.0 adsp.haberturk.com
 0.0.0.0 makroo.haber7.net
+0.0.0.0 ad.donanimhaber.com
 0.0.0.0 adserve.donanimhaber.com
 0.0.0.0 tvadbox-mwservice.digiturk.com.tr
+0.0.0.0 gez.io
 0.0.0.0 adsby.io
 0.0.0.0 dimml.io
 0.0.0.0 orsis.net
@@ -105,11 +107,13 @@
 0.0.0.0 personalization-event-service.modanisa.net
 0.0.0.0 2cnt.net
 0.0.0.0 count.ly
+0.0.0.0 simurg.app
 0.0.0.0 pghub.io
 0.0.0.0 zotlo.com
 0.0.0.0 servg1.net
 0.0.0.0 virgul.com
 0.0.0.0 cdnstr.com
+0.0.0.0 domer.tr
 0.0.0.0 netmera.com
 0.0.0.0 sgmntfy.com
 0.0.0.0 pigeoon.com
@@ -126,6 +130,7 @@
 0.0.0.0 subservis.com
 0.0.0.0 webinstats.com
 0.0.0.0 segmenthub.com
+0.0.0.0 selphiu.com
 0.0.0.0 visitorlab.com
 0.0.0.0 trk.storyly.io
 0.0.0.0 segmentify.com
