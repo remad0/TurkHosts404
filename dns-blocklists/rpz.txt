@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 486
-! Version: 2026.0928.0442.37
-! Last modified: 28 Sep 2026 04:42 UTC
+! Entries: 496
+! Version: 2026.1010.0513.52
+! Last modified: 10 Oct 2026 05:13 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -12,10 +12,14 @@ adsp.haberturk.com CNAME .
 *.adsp.haberturk.com CNAME .
 makroo.haber7.net CNAME .
 *.makroo.haber7.net CNAME .
+ad.donanimhaber.com CNAME .
+*.ad.donanimhaber.com CNAME .
 adserve.donanimhaber.com CNAME .
 *.adserve.donanimhaber.com CNAME .
 tvadbox-mwservice.digiturk.com.tr CNAME .
 *.tvadbox-mwservice.digiturk.com.tr CNAME .
+gez.io CNAME .
+*.gez.io CNAME .
 adsby.io CNAME .
 *.adsby.io CNAME .
 dimml.io CNAME .
@@ -202,6 +206,8 @@ personalization-event-service.modanisa.net CNAME .
 *.2cnt.net CNAME .
 count.ly CNAME .
 *.count.ly CNAME .
+simurg.app CNAME .
+*.simurg.app CNAME .
 pghub.io CNAME .
 *.pghub.io CNAME .
 zotlo.com CNAME .
@@ -212,6 +218,8 @@ virgul.com CNAME .
 *.virgul.com CNAME .
 cdnstr.com CNAME .
 *.cdnstr.com CNAME .
+domer.tr CNAME .
+*.domer.tr CNAME .
 netmera.com CNAME .
 *.netmera.com CNAME .
 sgmntfy.com CNAME .
@@ -244,6 +252,8 @@ webinstats.com CNAME .
 *.webinstats.com CNAME .
 segmenthub.com CNAME .
 *.segmenthub.com CNAME .
+selphiu.com CNAME .
+*.selphiu.com CNAME .
 visitorlab.com CNAME .
 *.visitorlab.com CNAME .
 trk.storyly.io CNAME .
