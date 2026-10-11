@@ -2,8 +2,8 @@
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Hosts
 ! Entries: 248
-! Version: 2026.1010.0513.52
-! Last modified: 10 Oct 2026 05:13 UTC
+! Version: 2026.1011.0504.31
+! Last modified: 11 Oct 2026 05:04 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -113,7 +113,7 @@
 0.0.0.0 servg1.net
 0.0.0.0 virgul.com
 0.0.0.0 cdnstr.com
-0.0.0.0 domer.tr
+0.0.0.0 telemetry.domer.tr
 0.0.0.0 netmera.com
 0.0.0.0 sgmntfy.com
 0.0.0.0 pigeoon.com
