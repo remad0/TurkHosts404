@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 498
-! Version: 2026.1012.0518.36
-! Last modified: 12 Oct 2026 05:18 UTC
+! Entries: 500
+! Version: 2026.1021.0404.38
+! Last modified: 21 Oct 2026 04:04 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -212,6 +212,8 @@ simurg.app CNAME .
 *.simurg.app CNAME .
 pghub.io CNAME .
 *.pghub.io CNAME .
+tani.com.tr CNAME .
+*.tani.com.tr CNAME .
 zotlo.com CNAME .
 *.zotlo.com CNAME .
 servg1.net CNAME .
