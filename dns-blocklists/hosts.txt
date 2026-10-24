@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Hosts
-! Entries: 250
-! Version: 2026.1021.0404.38
-! Last modified: 21 Oct 2026 04:04 UTC
+! Entries: 254
+! Version: 2026.1024.1919.12
+! Last modified: 24 Oct 2026 19:19 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -51,6 +51,7 @@
 0.0.0.0 a.doganburda.com
 0.0.0.0 ad01.tmgrup.com.tr
 0.0.0.0 ads.dygdigital.com
+0.0.0.0 dogus-ads-cdn.dygdigital.com
 0.0.0.0 membrana-cdn.media
 0.0.0.0 trkvz-cdn-ads.ercdn.net
 0.0.0.0 t.onedio.com
@@ -152,6 +153,8 @@
 0.0.0.0 sentry-prod.enuygun.tech
 0.0.0.0 eum.instanas.opetcloud.net
 0.0.0.0 criteo.ikasapps.com
+0.0.0.0 mdznconnect.com
+0.0.0.0 cypien.ai
 0.0.0.0 as.hepsiburada.com
 0.0.0.0 leo.hepsiburada.com
 0.0.0.0 hba1.hepsiburada.com
@@ -225,6 +228,7 @@
 0.0.0.0 poltio.arcelik.com.tr
 0.0.0.0 oneri.atasunoptik.com.tr
 0.0.0.0 poltio.com
+0.0.0.0 gleams.dev
 0.0.0.0 pushouse.com
 0.0.0.0 pushs.euromsg.com
 0.0.0.0 notification.farktor.com
