@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: RPZ
-! Entries: 500
-! Version: 2026.1021.0404.38
-! Last modified: 21 Oct 2026 04:04 UTC
+! Entries: 508
+! Version: 2026.1024.1919.12
+! Last modified: 24 Oct 2026 19:19 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -94,6 +94,8 @@ ad01.tmgrup.com.tr CNAME .
 *.ad01.tmgrup.com.tr CNAME .
 ads.dygdigital.com CNAME .
 *.ads.dygdigital.com CNAME .
+dogus-ads-cdn.dygdigital.com CNAME .
+*.dogus-ads-cdn.dygdigital.com CNAME .
 membrana-cdn.media CNAME .
 *.membrana-cdn.media CNAME .
 trkvz-cdn-ads.ercdn.net CNAME .
@@ -296,6 +298,10 @@ eum.instanas.opetcloud.net CNAME .
 *.eum.instanas.opetcloud.net CNAME .
 criteo.ikasapps.com CNAME .
 *.criteo.ikasapps.com CNAME .
+mdznconnect.com CNAME .
+*.mdznconnect.com CNAME .
+cypien.ai CNAME .
+*.cypien.ai CNAME .
 as.hepsiburada.com CNAME .
 *.as.hepsiburada.com CNAME .
 leo.hepsiburada.com CNAME .
@@ -442,6 +448,8 @@ oneri.atasunoptik.com.tr CNAME .
 *.oneri.atasunoptik.com.tr CNAME .
 poltio.com CNAME .
 *.poltio.com CNAME .
+gleams.dev CNAME .
+*.gleams.dev CNAME .
 pushouse.com CNAME .
 *.pushouse.com CNAME .
 pushs.euromsg.com CNAME .
