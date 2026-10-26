@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: AdBlock
-! Entries: 254
-! Version: 2026.1024.1919.12
-! Last modified: 24 Oct 2026 19:19 UTC
+! Entries: 255
+! Version: 2026.1026.0406.57
+! Last modified: 26 Oct 2026 04:06 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -109,6 +109,7 @@
 ||personalization-event-service.modanisa.net^
 ||2cnt.net^
 ||count.ly^
+||malliq-api.com^
 ||simurg.app^
 ||pghub.io^
 ||tani.com.tr^
