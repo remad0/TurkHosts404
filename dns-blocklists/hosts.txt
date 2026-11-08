@@ -1,9 +1,9 @@
 ! Title: TurkHosts404
 ! Description: Blocks Turkish ads, trackers, analytics, pop-ups, cookies, annoyances.
 ! Syntax: Hosts
-! Entries: 255
-! Version: 2026.1026.0406.57
-! Last modified: 26 Oct 2026 04:06 UTC
+! Entries: 258
+! Version: 2026.1108.0525.45
+! Last modified: 08 Nov 2026 05:25 UTC
 ! Maintainer: remad0
 ! Homepage: https://github.com/remad0/TurkHosts404
 ! License: https://github.com/remad0/TurkHosts404/blob/main/LICENSE
@@ -107,6 +107,7 @@
 0.0.0.0 cdn-netmeraprod.turktelekom.com.tr
 0.0.0.0 mpecom-analyticevents-prod.boyner.com.tr
 0.0.0.0 personalization-event-service.modanisa.net
+0.0.0.0 adfp.fcloud.com.tr
 0.0.0.0 2cnt.net
 0.0.0.0 count.ly
 0.0.0.0 malliq-api.com
@@ -235,6 +236,8 @@
 0.0.0.0 notification.farktor.com
 0.0.0.0 countly.teb.com.tr
 0.0.0.0 eumdyn.denizbank.com
+0.0.0.0 crmlistener.denizbank.com
+0.0.0.0 crmsdkapi.denizbank.com
 0.0.0.0 eum.vakifkatilim.com.tr
 0.0.0.0 pixels.ingbank.com.tr
 0.0.0.0 eflbundles.akbank.com
